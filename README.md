@@ -13,5 +13,5 @@ We will try to build a machine learning model to accurately predict whether or n
 The datasets consists of several medical predictor variables and one target variable, Outcome. Predictor variables includes the number of pregnancies the patient has had, their BMI, insulin level, age, and so on.
 
 # Result 
-The model created as a result of XGBoost hyperparameter optimization became the model with the lowest Cross Validation Score value.
+Machine learning (ML), a subset of artificial intelligence, has the potential to revolutionize diabetes risk prediction and early identification. Early detection and accurate prediction of diabetes can significantly contribute to effective management and prevention of complications.The fundamental goal of this study was to prepare and imsplement Diabetes Prediction using various machine learning techniques, followed by an output analysis to identify the best classifier with the highest accuracy, that we have successfully achieved this goal. This work focuses on improving the accuracy of diabetes prediction by tuning the hyperparameters of the proposed model and evaluating different machine learning classification techniques.Among these techniques, KNN is more effective and produce better results than other ML classification techniques. The KNN algorithm achieved a classification accuracy of 82.47%.
 
